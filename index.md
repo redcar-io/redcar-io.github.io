@@ -1,8 +1,28 @@
 ## Welcome to Red Car
 
-You can use the [editor on GitHub](https://github.com/redcar-io/redcar-io.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Starting this out. Will post links and such to things I find interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Account Takeover
+
+_AKA Hyjacking, Stolen Credentials, Account Verification Attacks_
+
+#### Google / USB Study
+[Google's worked with UC Berkeley](https://security.googleblog.com/) (and [paper](https://research.google.com/pubs/pub46437.html)). Two sets of significant results:
+
+##### First, the three types of attacks studdied are listed by their efacacy of full account takeover
+
+1. 25% of credentials obtained via phishing
+2. 12% of keylogger victims
+3. 7% of victims in thirdparty data breaches
+
+However, phishing also collects phone numbers, geo location, and device profiles. This, combined with historical password enumeration, makes phishing even more successful.
+
+##### Second, the risk signals
+
+- a user’s historical geolocations
+- device profiles (User-Agents or machine identifiers)
+- unphishable 2fa
+
 
 ### Markdown
 
@@ -28,10 +48,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/redcar-io/redcar-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
