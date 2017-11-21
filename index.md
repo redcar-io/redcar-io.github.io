@@ -3,7 +3,7 @@
 Posting things I find interesting.
 
 - [Account Takeover](ato.html)
-- Chrome extension to [auto reload a target URL](https://chrome.google.com/webstore/detail/reload-target/fbofpnajkcpnpillmmfhggjandclmjgj)
+- [Auto-Reload a Target URL](https://chrome.google.com/webstore/detail/auto-reload-target-url/fbofpnajkcpnpillmmfhggjandclmjgj) chrome extension
 
 
 ### Markdown
